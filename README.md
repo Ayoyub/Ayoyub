@@ -1,7 +1,3 @@
-# 💫 About Me:
-Currently studying engineering, loves maths and WILL study it later down the road
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/5RQyZfbZV7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayoyub_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ayoyub_) 
 
@@ -11,5 +7,3 @@ Currently studying engineering, loves maths and WILL study it later down the roa
 ![](https://github-readme-stats.vercel.app/api?username=Ayoyub&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ayoyub&theme=catppuccin_mocha&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoyub&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
